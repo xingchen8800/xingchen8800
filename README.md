@@ -1,4 +1,13 @@
 ### Hi there 👋
+### 你好，请看这里 👋
+## About me
+## 自我介绍
+你可以叫我xingchen8800，我是学生。我的哔哩哔哩用户名是xing_chen_。
+My nickname is xingchen8800. I'm a student. My username of Bilibili is "xing_chen_".
+## The project I'm writing
+## 我正在编写的项目
+# xcUI - A GUI libraty for any devices.
+# xcUI - 一个任何设备都可以使用的GUI库。
 
 <!--
 **xingchen8800/xingchen8800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
